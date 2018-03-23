@@ -1,5 +1,3 @@
-1.实现了一种在多个图中求环的算法，该算法是根据论文Graph Twiddling
-in a MapReduce World当中的算法实现一个能求二环、三环、四环的节点算法，该算法在core
-中实现
+1.实现了一种在多个图中求环的算法，该算法是根据论文Graph Twiddling in a MapReduce World当中的算法实现一个能求二环、三环、四环的节点算法，该算法在core中实现
 2.实现了一个在大规模数据中合并子图的算法该算法在core2中
 3.preprocess.java中是前期数据的处理
